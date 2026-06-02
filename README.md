@@ -39,11 +39,11 @@ decodelabs-project3-interactive-web-elements/
 
 ## Live Demo
 
-https://yourusername.github.io/decodelabs-project3-interactive-web-elements/
+https://jampalaakhila6-beep.github.io/decodelabs-project3-interactive-web-elements/
 
 ## GitHub Repository
 
-https://github.com/yourusername/decodelabs-project3-interactive-web-elements
+https://github.com/jampalaakhila6-beep/decodelabs-project3-interactive-web-elements
 
 ## Author
 
